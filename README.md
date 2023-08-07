@@ -9,7 +9,9 @@
 ![nginxchk](https://github.com/OhotinDY/sflt-01/blob/main/keepalived.conf.png)
 ### nginx активен
 ![nginxchk](https://github.com/OhotinDY/sflt-01/blob/main/nginx_on.png)
+### ip при активном nginx
 ![nginxchk](https://github.com/OhotinDY/sflt-01/blob/main/ip_on.png)
 ### nginx неактивен
 ![nginxchk](https://github.com/OhotinDY/sflt-01/blob/main/nginx_off.png)
+### ip при неактивном nginx
 ![nginxchk](https://github.com/OhotinDY/sflt-01/blob/main/ip_off.png)
